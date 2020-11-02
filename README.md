@@ -1,39 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## TrailMixer
+## TrailMixer🏔🌞
 
 TrailMixer is a hiking companion that you can use to discover new trails across the US or log hikes with your friends!
 
-Prerequisites
-Before you begin, ensure you have met the following requirements:
+![TrailMixer Demo Gif](TrailMixer.gif)
 
-You have installed the latest version of Rails & React.
-You have read the documentation.
+## Tech Stack
+- React.js
+- React Router - Declarative Routing
+- HikerProject API
+- JQuery
 
 ## Installing TrailMixer
-To install TrailMixer, follow these steps:
-
-macOS:
-npm install
-
-
-## Running Commands
-npm start
+- Clone this repo to your local machine git clone <this-repo-url>
+- Ensure your Backend API is running at http://localhost:3000/
+- run npm install to install all dependencies
+- run npm start to start server
+- When prompted, ensure Frontend is running at http://localhost:3001
 
 ## Contributors
 @rmwerner18 🐛
-
-## Contributing to TrailMixer
-To contribute to TrailMixer, follow these steps:
-
-Fork this repository.
-Create a branch: git checkout -b <branch_name>.
-Make your changes and commit them: git commit -m '<commit_message>'
-Push to the original branch: git push origin trail-mixer-client/main
-Create the pull request.
-Alternatively see the GitHub documentation on creating a pull request.
-
-
 
 ## Contact
 If you want to contact me you can reach me at mimioj@gmail.com
