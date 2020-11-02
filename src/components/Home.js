@@ -6,7 +6,7 @@ function Home() {
 
     return(
     <div>
-        <h1>Welcome to SomeTrails!</h1>
+        <h1>Welcome to TrailMixer!</h1>
         <h1>Conditions:</h1>
         {/* technically hardcoded for colorado rn */}
         <Iframe url="https://www.hikingproject.com/widget/conditions?v=3&x=-11670542&y=4700361&z=2&height=400"
