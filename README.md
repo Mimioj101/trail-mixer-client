@@ -4,6 +4,8 @@ TrailMixer is a hiking companion that you can use to discover new trails across 
 
 ![TrailMixer Demo Gif](TrailMixer.gif)
 
+DEMO: https://www.youtube.com/watch?v=RUxXJMWf0Bg
+
 ## Tech Stack
 - React.js
 - React Router - Declarative Routing
